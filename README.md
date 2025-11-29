@@ -33,5 +33,5 @@ Add more laptop features (GPU, screen size, etc.)
 Deploy with Docker or on cloud
 
 🤝 Contributing
-Contributions are welcome! Please open an issue or pull request.
+Contributions are welcome! Please open an issue or pull request.// follow instrunction and manage values
 
