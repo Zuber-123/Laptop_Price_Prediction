@@ -22,16 +22,16 @@ This model helps users estimate laptop prices using regression algorithms. It ca
 - Streamlit
 - Matplotlib, Seaborn
 
-📊 Dataset
+📊 Dataset:
 Custom scraped dataset or from Kaggle (e.g., laptop specs and prices)
 
-📌 Future Work
+📌 Future Work:
 Improve model accuracy with advanced techniques
 
 Add more laptop features (GPU, screen size, etc.)
 
 Deploy with Docker or on cloud
 
-🤝 Contributing
+🤝 Contributing:
 Contributions are welcome! Please open an issue or pull request.
 
